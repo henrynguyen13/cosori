@@ -88,12 +88,13 @@ video {
 }
 
 .game-img {
+  height: 600px;
   border-radius: 20px;
   border: #ff5a35 solid 5px;
 }
 
 .share-button-wrap {
-  font-size: 32px;
+  font-size: 30px;
   left: 5%;
   bottom: 80px;
 }
